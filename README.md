@@ -1,2 +1,3 @@
 # Programming_SQL
 Learning SQL and its priviliges
+well. .. everyone seems to know everything about SQL already... so maybe this will basically be a reminder to myself like the book of Marcus Aurelius.... 
